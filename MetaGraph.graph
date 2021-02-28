@@ -1,0 +1,49 @@
+24 24
+695 23 70 150 Model
+1141 39 70 150 View
+209 39 70 150 Controller
+1292 162 70 150 GraphFrame
+1223 243 70 150 GraphPanel
+1063 289 70 150 NodeLabel
+854 124 70 150 Node
+692 169 70 150 Graphmodel
+514 120 70 150 Edge
+516 235 70 150 IO
+855 220 70 150 GraphSaver
+598 353 70 150 GraphFileFormat
+760 301 70 150 GraphLoader
+44 377 70 150 SelectionController
+44 302 70 150 ToolMenu
+44 226 70 150 NodeColorer
+41 147 70 150 MenuBar
+310 301 70 150 items...
+230 378 70 150 undoRedo...
+131 451 70 150 actions
+204 564 70 150 SaveGraphAction
+45 564 70 150 LoadGraphAction
+366 564 70 150 ResetGraphAction
+694 637 70 150 User
+1 5
+1 4
+1 3
+0 8
+0 7
+0 6
+0 9
+9 11
+9 12
+9 10
+2 0
+0 1
+2 14
+2 13
+2 15
+2 16
+2 19
+2 18
+2 17
+19 21
+19 20
+19 22
+1 23
+23 2
